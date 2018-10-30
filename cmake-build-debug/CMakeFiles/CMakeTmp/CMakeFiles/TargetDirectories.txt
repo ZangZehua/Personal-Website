@@ -1,0 +1,3 @@
+F:/CLionProjects/StackInExpression/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_37c19.dir
+F:/CLionProjects/StackInExpression/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
+F:/CLionProjects/StackInExpression/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir

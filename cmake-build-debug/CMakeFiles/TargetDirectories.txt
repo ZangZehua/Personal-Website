@@ -1,0 +1,3 @@
+F:/CLionProjects/StackInExpression/cmake-build-debug/CMakeFiles/StackInExpression.dir
+F:/CLionProjects/StackInExpression/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/CLionProjects/StackInExpression/cmake-build-debug/CMakeFiles/rebuild_cache.dir
